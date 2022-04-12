@@ -1,3 +1,3 @@
-a = gets(chomp: true)
+a = gets(chomp: true) + "?"
 #↑文末改行されない
-puts (a + "?")
+puts (a + "?")f
